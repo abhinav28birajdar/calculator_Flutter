@@ -27,8 +27,8 @@ class Calculator extends StatefulWidget {
 }
 
 class _CalculatorState extends State<Calculator> {
-  String equation = '6000/2+3227*2';
-  String result = '12,454';
+  String equation = '';
+  String result = '0';
   String expression = '';
   double equationFontSize = 24.0;
   double resultFontSize = 48.0;
