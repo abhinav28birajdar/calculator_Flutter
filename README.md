@@ -1,16 +1,47 @@
-# flutter_calcu
+# 🧮 Flutter Calculator
 
-A new Flutter project.
+A simple and minimal calculator application built using **Flutter**.  
+Designed with a clean UI and smooth performance for everyday calculations.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Preview
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://github.com/user-attachments/assets/22f9e377-5dba-495c-961c-cdb814e99bd5)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- ➕ Basic Arithmetic Operations (Add, Subtract, Multiply, Divide)
+- 🎨 Clean & Minimal UI
+- ⚡ Fast & Responsive Performance
+- 📱 Optimized for Android Devices
+- 🔢 Real-time Calculation Display
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Android Studio / VS Code
+- Emulator or Physical Device
+
+---
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/flutter_calcu.git
+
+# Navigate to project directory
+cd flutter_calcu
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
